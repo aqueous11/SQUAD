@@ -1,0 +1,28 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>WEBSITE IDEA</title>
+</head>
+<body>
+    <h1>FURNITURE RESELL</h1>
+    <hr>
+    <h2>555-1234</h2>
+    <hr>
+
+<form action="server.php"></form>
+    <fieldset>
+        <legend>Personal Information</legend>
+        First Name:<br>
+        <input type="text" name="firstname" value=""><br>
+        Last Name<br>
+        <input type="text" name="lastname" value=""><br>
+        Phone Number:<br>
+        <input type="text" name="phonenumber" value=""><br><br>
+        <input type="submit" value="Submit">
+    </fieldset>
+
+    <img src="SLOTHARMSTRONG.jpeg" alt="">
+</body>
+</html>
